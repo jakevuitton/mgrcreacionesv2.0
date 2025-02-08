@@ -1,2 +1,72 @@
 Botón POP UP ¿En qué te puedo ayudar?
 
+<div class="nav-bottom">
+    <div class="popup-whatsapp fadeIn">
+        <div class="content-whatsapp -top">
+            <button type="button" class="closePopup">
+                <i class="material-icons icon-font-color">close</i>
+            </button>
+            <p>Hola, puedo ayudarte en algo?</p>
+        </div>
+        <div class="content-whatsapp -bottom">
+            <input class="whats-input" id="whats-in" type="text" placeholder="Enviar mensaje..." />
+            <button class="send-msPopup" id="send-btn" type="button">
+                <i class="material-icons icon-font-color--black">send</i>
+            </button>
+        </div>
+    </div>
+    <button type="button" id="whats-openPopup" class="whatsapp-button">
+        <img class="icon-whatsapp" src="https://cdn-icons-png.flaticon.com/512/134/134937.png" alt="WhatsApp">
+    </button>
+    <div class="circle-anime"></div>
+</div>
+
+<!-- Menú de categorías -->
+
+ <ul>
+          <li>
+              <a href="#" class="uniformes-toggle">Textiles</a>
+              <ul class="uniformes-menu">
+                  <li><a href="bolsas.html">Bolsas</a></li>
+                  <li><a href="carpetas.html">Carpetas</a></li>
+                  <li><a href="cosmetiqueras.html">Cosmetiqueras</a></li>
+                  <li><a href="gorras.html">Gorras</a></li>
+                  <li><a href="loncheras_hieleras.html">Loncheras y hieleras</a></li>
+                  <li><a href="mochilasymaletas.html">Mochilas y maletas</a></li>
+              </ul>                    
+          </li>
+          <li>
+              <a href="#" class="promocionales-toggle">Promocionales</a>
+              <ul class="promocionales-menu">
+                  <li><a href="accesoriosparacelulares.html">Accesorios para celular</a></li>
+                  <li><a href="agendas.html">Agendas</a></li>
+                  <li><a href="antiestres.html">Antiéstres</a></li>
+                  <li><a href="audio.html">Audio</a></li>
+                  <li><a href="bar.html">Bar</a></li>
+                  <li><a href="bebidas.html">Bebidas</a></li>
+                  <li><a href="boligrafos.html">Bolígrafos</a></li>
+                  <li><a href="cuidado-personal.html">Cuidado personal</a></li>
+                  <li><a href="ecologicos.html">Ecológicos</a></li>
+                  <li><a href="ejecutivo.html">Ejecutivo</a></li>
+                  <li><a href="escolar.html">Escolar</a></li>
+                  <li><a href="herramientas.html">Herramientas</a></li>
+                  <li><a href="hogar.html">Hogar</a></li>
+                  <li><a href="libretas.html">Libretas</a></li>
+                  <li><a href="llaveros.html">Llaveros</a></li>
+                  <li><a href="mascotas.html">Mascotas</a></li>
+                  <li><a href="medicos.html">Médicos</a></li>
+                  <li><a href="oficina.html">Oficina</a></li>
+                  <li><a href="paraguas.html">Paraguas</a></li>
+                  <li><a href="portagafetes.html">Portagafetes</a></li>
+                  <li><a href="pvc-custom.html">PVC custom</a></li>
+                  <li><a href="relojes.html">Relojes</a></li>
+                  <li><a href="tazas.html">Tazas</a></li>
+                  <li><a href="tecnologia.html">Tecnología</a></li>
+                  <li><a href="termos.html">Termos</a></li>
+                  <li><a href="tiempo-libre.html">Tiempo libre</a></li>
+                  <li><a href="usb.html">USB</a></li>
+                  <li><a href="viajes.html">Viajes</a></li>
+              </ul>                    
+          </li>
+      </ul>
+
