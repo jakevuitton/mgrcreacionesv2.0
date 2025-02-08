@@ -103,3 +103,41 @@ Botón POP UP ¿En qué te puedo ayudar?
             
         </div>
     </div>	
+
+
+<!-- Productos similares -->
+<section id="productos-similares" class="bg-claro">
+    <div class="envoltura-texto">
+      <h2 class="encabezado-principal">Productos Similares</h2>
+      <div class="subtitulo-producto">Estos productos pueden ser de tu interés</div>
+      <div class="fila-productos">
+        <a href="bolsa-travis.html" class="producto">
+          <div class="foto-producto">
+            <img src="https://regaloscorporativosypromocionales.com.mx/images/productos/webp/.ryp-30072024131215cp088.webp" alt="SET 5 BOLSAS TRAVIS">
+          </div>
+          <div class="detalle-producto">
+            <h3 class="encabezado-producto">SET 5 BOLSAS TRAVIS</h3>
+            <div class="precio-producto">SKU: MGR901P-CP-088</div>
+          </div>
+        </a>
+        <a href="bolsa-ecologica-kyoto.html" class="producto">
+          <div class="foto-producto">
+            <img src="https://regaloscorporativosypromocionales.com.mx/images/productos/webp/.ryp-c540-colores-mexico.webp" alt="BOLSA ECOLÓGICA KYOTO">
+          </div>
+          <div class="detalle-producto">
+            <h3 class="encabezado-producto">BOLSA ECOLÓGICA KYOTO</h3>
+            <div class="precio-producto">SKU: MGR701P-C540</div>
+          </div>
+        </a>
+        <a href="bolsa-vazzola.html" class="producto">
+          <div class="foto-producto">
+            <img src="https://regaloscorporativosypromocionales.com.mx/images/productos/webp/.ryp-tx-18705.webp" alt="BOLSA VAZZOLA">
+          </div>
+          <div class="detalle-producto">
+            <h3 class="encabezado-producto">BOLSA VAZZOLA</h3>
+            <div class="precio-producto">SKU: MGR801P-TX-187</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
