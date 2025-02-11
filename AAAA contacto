@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>MGR Creaciones</title>
+    <meta name="description" content="Roxy">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div>
+        <a href="/">
+            <img src="img/logo200.png" alt="MGR CREACIONES">
+        </a>
+    </div>
+
+    <div>
+        <a href="/">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="contacto.html">Contacto</a>
+    </div>
+
+    <div>
+        <a href="#">🔍</a>
+    </div>
+
+    <div>
+        <p>Mexico, Ciudad de Mexico, Tlalpan.</p>
+        <p>+52 56 3445 6116</p>
+        <p>rafaelgomez@mgrcreaciones.com</p>
+    </div>
+
+    <div>
+        <form action="">
+            <input type="text" placeholder="Buscar..." aria-label="Search">
+            <button type="submit">🔍</button>
+        </form>
+    </div>
+
+    <div>
+        <h1>Contáctanos</h1>
+    </div>
+
+    <div>
+        <h2>¿Buscas atención personalizada?</h2>
+        <p>En MGR CREACIONES nos interesa brindarte una atención única. Por eso si deseas algún producto en específico o cotizar alguna creación déjanos tus datos y nos pondremos en contacto lo antes posible.</p>
+    </div>
+
+    <form method="post" name="contact-us" action="">
+        <input type="text" name="name" placeholder="Nombre">
+        <input type="text" name="email" placeholder="Email">
+        <input type="number" name="phoneNumber" placeholder="Número de celular">
+        <textarea name="message" rows="6" placeholder="Escríbenos tu mensaje..."></textarea>
+        <button type="submit" name="submit">Enviar mensaje</button>
+    </form>
+
+    <div>
+        <h2>¿Dónde encontrarnos?</h2>
+        <p>Ubicación: Sicilia #48 col. Iztapalapa, Mexico City, Mexico</p>
+        <p>Horarios: Lunes - Sábado</p>
+        <p>Llámanos: +52 56 3445 6116</p>
+        <p>Correo: rafaelgomez@mgrcreaciones.com</p>
+    </div>
+
+    <div>
+        <p>&copy; Jacob Campos Morales <a href="https://theamazingjacob.com/" target="_blank"> :) </a>.</p>
+        <a href="https://www.facebook.com/share/1BHSrQsP3y/">Facebook</a>
+        <a href="https://www.instagram.com/mgr_creciones?igsh=MWs4bjhmaHFueG80Zg==">Instagram</a>
+    </div>
+</body>
+</html>
