@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>MGR Creaciones</title>
+    <meta name="description" content="Roxy">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div>
+        <a href="javascript:void(0)">&times;</a>
+        <div>
+            <p>Mexico, Ciudad de Mexico, Tlalpan.</p>
+            <p>+52 56 3445 6116</p>
+            <p>rafaelgomez@mgrcreaciones.com</p>
+        </div>
+    </div>
+
+    <div>
+        <a href="javascript:void(0)">&times;</a>
+        <div>
+            <ul>
+                <li>
+                    <a href="#">Textiles</a>
+                    <ul>
+                        <li><a href="bolsas.html">Bolsas</a></li>
+                        <li><a href="carpetas.html">Carpetas</a></li>
+                        <li><a href="cosmetiqueras.html">Cosmetiqueras</a></li>
+                        <li><a href="gorras.html">Gorras</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Promocionales</a>
+                    <ul>
+                        <li><a href="agendas.html">Agendas</a></li>
+                        <li><a href="audio.html">Audio</a></li>
+                        <li><a href="bar.html">Bar</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div>
+        <a href="/">
+            <img src="img/logo200.png" alt="MGR CREACIONES">
+        </a>
+    </div>
+
+    <div>
+        <a href="/">Inicio</a>
+        <a href="productos.html">Productos</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="contacto.html">Contacto</a>
+    </div>
+
+    <div>
+        <a href="#">
+            <span>🔍</span>
+        </a>
+    </div>
+
+    <section>
+        <div>
+            <h1>Productos</h1>
+        </div>
+    </section>
+
+    <section>
+        <h1>Todos los productos</h1>
+    </section>
+
+    <section>
+        <a href="accesorios-para-celular.html">
+            <div>
+                <img src="https://regaloscorporativosypromocionales.com.mx/images/productos/webp/SO-073-main.webp">
+                <h5>Accesorios para celular</h5>
+            </div>
+        </a>
+        <a href="agendas.html">
+            <div>
+                <img src="https://regaloscorporativosypromocionales.com.mx/images/productos/webp/.ryp-ex-08212.webp">
+                <h5>Agendas</h5>
+            </div>
+        </a>
+    </section>
+
+    <section>
+        <h2>MGR CREACIONES</h2>
+        <p>En MGR Creaciones, nos especializamos en ofrecer productos promocionales y textiles de alta calidad.</p>
+    </section>
+
+    <div>
+        <p>&copy; Jacob Campos Morales <a href="https://theamazingjacob.com/" target="_blank"> :) </a>.</p>
+        <a href="https://www.facebook.com/share/1BHSrQsP3y/">Facebook</a>
+        <a href="https://www.instagram.com/mgr_creciones?igsh=MWs4bjhmaHFueG80Zg==">Instagram</a>
+    </div>
+</body>
+</html>
